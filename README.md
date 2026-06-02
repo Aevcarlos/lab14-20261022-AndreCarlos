@@ -33,7 +33,7 @@ The Anime Watchlist Tracker can:
 3. Run the following command:
 
 ```bash
-python anime_watchlist.py
+py anime_watchlist.py
 ```
 
 ## OOP Concepts Used
