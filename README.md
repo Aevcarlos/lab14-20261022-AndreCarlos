@@ -51,9 +51,9 @@ Objects are created from the `Anime` class.
 
 Example objects may include:
 ```text
-anime1
-anime2
-anime3
+Code Geass
+Bleach
+Naruto
 ```
 ### Attributes
 The attributes used in this project are:
@@ -73,67 +73,60 @@ The methods used in this project are:
 ## Git and GitHub Questions
 
 ### 1. What is Git?
-Write your answer here.
-
+Git is a free, open-source software tool that tracks changes to files over time.
 ### 2. What is GitHub?
-Write your answer here.
-
+GitHub is a website where programmers can store, share and work on code together.
 ### 3. What is a commit?
-Write your answer here.
+A commit is like saving the progress of your code to be stored on github.
 
 ### 4. What is a branch?
-Write your answer here.
+A branch is a seperate copy of the main code which can be used to test and edit changes and later be merged to the main code.
 
 ### 5. Why do programmers use Git and GitHub?
-Write your answer here.
-
+Programmers use Git and Github as a way to preserve your code, make changes without affecting the main code and bring it back together by merging them. You;re able to save, store and share all of this and collaborate with other programmers.
 ---
 
 ## OOP Planning Questions
 
 ### 1. What class will you create?
-Write your answer here.
+I will create a class called "Anime"
 
 ### 2. What attributes will your class have?
-Write your answer here.
+My class will have the attributes: Title, Genre and Status
 
 ### 3. What methods will your class have?
-Write your answer here.
+I will use the methods display_info and update_status
 
 ### 4. How many anime objects will you create?
-Write your answer here.
+I will create 3 initially.
 
 ### 5. Why is this project an example of Object-Oriented Programming?
-Write your answer here.
+The program stores anime information such as title, genre, and watching status. This project uses basic
+Object-Oriented Programming concepts, including class, object, attributes, and methods.
 
 ---
 
 ## Sample Output
-
-Paste a sample output from your program here.
-
-Example:
-
 ```text
-===== Anime Watchlist =====
-
-Title: Demon Slayer
+========== Anime Watched ==========
+Title: Bleach
 Genre: Action
-Status: Watching
-
-Title: Spy x Family
-Genre: Comedy
 Status: Completed
-
-Title: Haikyuu
-Genre: Sports
+Title: Code Geass
+Genre: Political
+Status: Completed
+Title: Naruto
+Genre: Action
 Status: Plan to Watch
-
-Updating anime status...
-
-Updated Anime:
-Title: Haikyuu
-Genre: Sports
+Title: DBZ
+Genre: Action
+Status: Dropped
+Title: Horimiya
+Genre: Romance
+Status: Completed
+========== Updated Anime... ==========
+Title: Naruto
+Genre: Action
 Status: Watching
 ```
 
@@ -141,17 +134,17 @@ Status: Watching
 
 ## Reflection
 ### 1. What did you learn about Git?
-Write your answer here.
+I learned how to create repositories, commit and create branches to place in Github
 
 ### 2. What did you learn about GitHub?
-Write your answer here.
+I learned that I am able to access, edit and interact with Github through VS code.
 
 ### 3. What did you learn about Python classes?
-Write your answer here.
+I learned that classes can hold a bunch of different functions and proccesses in itself that can be called and run.
 
 ### 4. What was the hardest part of this lab?
-Write your answer here.
+I think the hardest part of this lab was trying to figure out how to change the status for example from "Plan to watch" to "Watching.
 
 ### 5. What improvement did you add to your anime system?
-Write your answer here.
+I added more anime objects.
 

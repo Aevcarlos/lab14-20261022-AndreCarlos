@@ -1,4 +1,3 @@
-# Step 2
 class Anime:
     def __init__(self, title, genre, status):
         self.title=title
@@ -6,7 +5,6 @@ class Anime:
         self.status=status
         # self.anime_list=anime_list
 
-# Step 3 
     def display_info(self):
         print("Title:", self.title,)
         print("Genre:", self.genre)
